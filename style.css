@@ -7,10 +7,10 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
-li{
-    height: 48px;
-    margin-top: 10px;
-}
+/*li{
+    height: 60px;
+    margin: 10px;
+}*/
 
 a,
 button {
@@ -844,6 +844,7 @@ h4 {
 .btn-atomic-tangerine {
     background: #F3976C;
     color: #FFFFFF!important;
+    width: 95%;
 }
 
 .btn-atomic-tangerine:hover {
