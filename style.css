@@ -882,11 +882,11 @@ h4 {
 }
 
 .bg-banniere {
-    background-image: url("img/agence-la-pantherecompressé-et-opti.jpg");
+    background-image: url("img/agence-la-pantherecompressé-et-opti.webp");
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation-compress-et-opti.jpg");
+    background-image: url("img/image-de-presentation-compress-et-opti.webp");
 }
 
 @media (max-width: 1024px) {
